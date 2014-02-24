@@ -45,6 +45,8 @@ end
 group :production do
 	gem 'pg','0.15.1'
 end
+
+gem 'rubyzip','~>0.9.9'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
